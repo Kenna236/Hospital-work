@@ -1,2 +1,2 @@
-# A mildly interactive webpage for booking medical appointments
-personal project
+An interactive webpage for booking medical appointments
+
